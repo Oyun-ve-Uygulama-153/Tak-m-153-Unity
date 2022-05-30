@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GetNextLevel : MonoBehaviour
 {
-    public float NextLevelSceneNumber = 0f; 
+    public int NextLevelSceneNumber = 0; 
     private void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Next Level!: " + NextLevelSceneNumber);
+        SceneManager.LoadScene(NextLevelSceneNumber);
     }
 }
