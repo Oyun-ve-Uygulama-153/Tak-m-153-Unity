@@ -20,4 +20,9 @@ public class CoinCounter : MonoBehaviour
         }
 
     }
+
+    public int GetScore()
+    {
+        return score;
+    }
 }
