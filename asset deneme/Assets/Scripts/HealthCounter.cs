@@ -23,4 +23,9 @@ public class HealthCounter : MonoBehaviour
     {
         return Health;
     }
+
+    public void AttackPlayer(int AttackPower)
+    {
+        Health -= AttackPower;
+    }
 }
