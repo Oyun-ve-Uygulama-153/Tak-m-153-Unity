@@ -399,7 +399,7 @@ GameObject:
   - component: {fileID: 212444213}
   m_Layer: 0
   m_Name: Right
-  m_TagString: Untagged
+  m_TagString: RightWall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1061,10 +1061,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NextLevelWall
       objectReference: {fileID: 0}
-    - target: {fileID: 1806980703003941499, guid: 70cc846344c917f429ae7c644188b95a, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2397490309291066154, guid: 70cc846344c917f429ae7c644188b95a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1108,10 +1104,6 @@ PrefabInstance:
     - target: {fileID: 2397490309291066154, guid: 70cc846344c917f429ae7c644188b95a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3995901105264723881, guid: 70cc846344c917f429ae7c644188b95a, type: 3}
-      propertyPath: NextLevelSceneNumber
-      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70cc846344c917f429ae7c644188b95a, type: 3}

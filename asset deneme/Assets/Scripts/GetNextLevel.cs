@@ -8,7 +8,11 @@ public class GetNextLevel : MonoBehaviour
     public int NextLevelSceneNumber = 0; 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Next Level!: " + NextLevelSceneNumber);
-        SceneManager.LoadScene(NextLevelSceneNumber);
+        if(other.tag == "RightWall")
+        {
+            Debug.Log("Next Level!: " + NextLevelSceneNumber);
+            SceneManager.LoadScene(NextLevelSceneNumber);
+        }
+        
     }
 }

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3995901105264723881}
   m_Layer: 0
   m_Name: NextLevelWall
-  m_TagString: Untagged
+  m_TagString: RightWall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122,3 +122,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd2f78e0b8b4c3645a766d3f9bedf230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  NextLevelSceneNumber: 4
