@@ -7,6 +7,8 @@ public class BirdFlightController : MonoBehaviour
 
     public float speed = 5f;
 
+    public Joystick joystick;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +18,8 @@ public class BirdFlightController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+#if UNITY_EDITOR
+
         if (Input.GetKey(KeyCode.W))
         {
             transform.position = new Vector2(transform.position.x,
@@ -39,5 +43,14 @@ public class BirdFlightController : MonoBehaviour
             transform.position = new Vector2(transform.position.x + speed * Time.deltaTime,
                                         transform.position.y);
         }
+
+
+#else
+
+       transform.position = new Vector2(transform.position.x + speed * Time.deltaTime * joystick.Horizontal,
+                                        transform.position.y + speed * Time.deltaTime * joystick.Vertical);
+        
+#endif
+
     }
 }
