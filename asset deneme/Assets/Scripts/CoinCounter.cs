@@ -25,4 +25,9 @@ public class CoinCounter : MonoBehaviour
     {
         return score;
     }
+
+    public void ResetScore()
+    {
+        score = 0;
+    }
 }

@@ -28,4 +28,9 @@ public class HealthCounter : MonoBehaviour
     {
         Health -= AttackPower;
     }
+
+    public void ResetHealth()
+    {
+        Health = 3;
+    }
 }
