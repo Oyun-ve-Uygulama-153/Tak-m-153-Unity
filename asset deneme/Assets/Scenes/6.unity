@@ -378,7 +378,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7045449632100865025}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aead6f015dc7a3149bd5409c471e1a58, type: 3}
   m_Name: 
@@ -1039,6 +1039,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   StartLevelSceneNumber: 1
+  MainCharacter: {fileID: 7045449632100865025}
   ScoreResult: {fileID: 810694064}
   HealthResult: {fileID: 843310138}
 --- !u!1 &1355196862
@@ -1657,7 +1658,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1706789427960334084}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f336cce8620a3bb4c8c034fc800140ac, type: 3}
   m_Name: 

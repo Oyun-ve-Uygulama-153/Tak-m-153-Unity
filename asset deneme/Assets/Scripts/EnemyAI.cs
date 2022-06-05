@@ -17,6 +17,7 @@ public class EnemyAI : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log(this.name + " collide" + collision.name);
         if(collision.tag == "Player")
         {
             collision.gameObject.GetComponent<HealthCounter>().AttackPlayer(AttackPower);
