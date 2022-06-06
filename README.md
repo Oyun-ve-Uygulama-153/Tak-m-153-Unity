@@ -110,6 +110,8 @@ Zuko Games
 
 - **Sprint board update**: 
 
+![image](https://user-images.githubusercontent.com/79860166/172232616-9616dd47-aa4e-4065-8f51-db3ac158d6b8.png)
+
 - **Ürün Durumu**: Ürün %100 tamamlandı.
 
 - **Sprint Review**: 
