@@ -32,7 +32,7 @@ Zuko Games
 
 ## Product Backlog URL
 
-[Miro Backlog Board]([Miro Backlog Board](https://miro.com/app/board/uXjVO3oVk_4=/?share_link_id=155278847454)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO3oVk_4=/?share_link_id=155278847454)
 
 ---
 
