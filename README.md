@@ -39,7 +39,7 @@ Zuko Games
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Ürün hakkında ayrıntılar konuşuldu.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
@@ -51,9 +51,9 @@ Zuko Games
 
 - **Sprint board update**: 
 
-- **Ürün Durumu**: 
+- **Ürün Durumu**: Ürüne başlanılmadı.
 
-- **Sprint Review**: 
+- **Sprint Review**: Ürünü geliştirmek için yeni bölümler konuşuldu ve assetler incelendi.
 
 
 - **Sprint Retrospective:**
@@ -66,7 +66,7 @@ Zuko Games
 
 # Sprint 2
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Oyun tamamıyla değiştirildi.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
@@ -94,7 +94,7 @@ Zuko Games
 
 # Sprint 3
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Hızlı bir şekilde, yoğun bir çalışma sonucu ğrğn ortaya konuldu.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
@@ -106,15 +106,15 @@ Zuko Games
 
 - **Sprint board update**: 
 
-- **Ürün Durumu**: 
+- **Ürün Durumu**: Ürün %100 tamamlandı.
 
 - **Sprint Review**: 
 
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective:**. Daha öncesinde plananlanan sprintler yaşanılan bireysel durumlardan dolayı istenilen düzeyde tamamlanmamıştı. Fakat kısa bir sürede yoğun çalışma sonucu istediğimiz ürünü ortaya çıkarttık.
 
 
--**Diğer Notlar**:
+-**Diğer Notlar**: Ürünü tanıtım videosu çekilecek, sprintler haricinde tutulmuştur.
 - N/A
 
 ---
