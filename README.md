@@ -40,7 +40,7 @@ Zuko Games
 
 - **Sprint Notları**: Ürün hakkında ayrıntılar konuşuldu.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100
 
 - **Puan tamamlama mantığı**:
 
@@ -69,7 +69,7 @@ Zuko Games
 
 - **Sprint Notları**: Oyun tamamıyla değiştirildi.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120
 
 - **Puan tamamlama mantığı**:
 
@@ -97,9 +97,9 @@ Zuko Games
 
 # Sprint 3
 
-- **Sprint Notları**: Hızlı bir şekilde, yoğun bir çalışma sonucu ğrğn ortaya konuldu.
+- **Sprint Notları**: Hızlı bir şekilde, yoğun bir çalışma sonucu ürün ortaya konuldu.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160
 
 - **Puan tamamlama mantığı**:
 
