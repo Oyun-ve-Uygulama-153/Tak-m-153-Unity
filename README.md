@@ -51,6 +51,8 @@ Zuko Games
 
 - **Sprint board update**: 
 
+<img width="1173" alt="Ekran Resmi 2022-06-06 20 01 24" src="https://user-images.githubusercontent.com/79860166/172218359-c5446c86-50df-4560-a10e-f55b71e4d1cc.png">
+
 - **Ürün Durumu**: Ürüne başlanılmadı.
 
 - **Sprint Review**: Ürünü geliştirmek için yeni bölümler konuşuldu ve assetler incelendi.
@@ -77,6 +79,8 @@ Zuko Games
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint Daily Scrum Chats](https://drive.google.com/drive/folders/16EWZ_cByvjVQ9gmCy6qyA4rTSO7N_QW8?usp=sharing)
 
 - **Sprint board update**: 
+
+<img width="864" alt="Ekran Resmi 2022-06-06 20 01 57" src="https://user-images.githubusercontent.com/79860166/172218253-d345891b-2ce9-43f9-8cfb-3094f239c536.png">
 
 - **Ürün Durumu**: 
 
@@ -109,7 +113,6 @@ Zuko Games
 - **Ürün Durumu**: Ürün %100 tamamlandı.
 
 - **Sprint Review**: 
-
 
 - **Sprint Retrospective:**. Daha öncesinde plananlanan sprintler yaşanılan bireysel durumlardan dolayı istenilen düzeyde tamamlanmamıştı. Fakat kısa bir sürede yoğun çalışma sonucu istediğimiz ürünü ortaya çıkarttık.
 
