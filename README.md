@@ -12,11 +12,11 @@ Zuko Games
 
 ## Ürün İsmi
 
---Fly It!--
+--Mr. Bird--
 
 ## Ürün Açıklaması
 
-- Fly It! oyunu yolculuklarda, boş zamanlarda hızlı bir şekilde oynayabileceğiniz, farklı aşamalardan oluşan uçan bir kuşu yönlendirerek para ve kalp topladığınız, siyah kuşlardan kaçtığınız bir mobil oyundur.
+- Mr. Bird oyunu yolculuklarda, boş zamanlarda hızlı bir şekilde oynayabileceğiniz, farklı aşamalardan oluşan uçan bir kuşu yönlendirerek para ve kalp topladığınız, karanlık kuşlardan kaçtığınız bir mobil oyundur.
 
 ## Ürün Özellikleri
 
@@ -112,6 +112,11 @@ Zuko Games
 ![image](https://user-images.githubusercontent.com/79860166/172232616-9616dd47-aa4e-4065-8f51-db3ac158d6b8.png)
 
 - **Ürün Durumu**: Ürün %100 tamamlandı.
+
+![WhatsApp Image 2022-06-06 at 22 49 49](https://user-images.githubusercontent.com/79860166/172237909-e82eaa2d-4b5f-41ca-8772-685140176a73.jpeg)
+![WhatsApp Image 2022-06-06 at 22 49 53](https://user-images.githubusercontent.com/79860166/172237930-643f64a7-6844-4b96-8578-4266d456c301.jpeg)
+![WhatsApp Image 2022-06-06 at 22 49 58](https://user-images.githubusercontent.com/79860166/172237949-029fb5fa-12df-4486-a567-b401bda60093.jpeg)
+
 
 - **Sprint Review**: Ürün istenilen şekilde tamamlandı.
 
