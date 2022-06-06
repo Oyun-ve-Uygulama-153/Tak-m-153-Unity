@@ -113,7 +113,7 @@ Zuko Games
 
 - **Ürün Durumu**: Ürün %100 tamamlandı.
 
-- **Sprint Review**: 
+- **Sprint Review**: Ürün istenilen şekilde tamamlandı.
 
 - **Sprint Retrospective:**. Daha öncesinde plananlanan sprintler yaşanılan bireysel durumlardan dolayı istenilen düzeyde tamamlanmamıştı. Fakat kısa bir sürede yoğun çalışma sonucu istediğimiz ürünü ortaya çıkarttık.
 
